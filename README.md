@@ -3,6 +3,12 @@ Overview
 
 Starter content for [Dataquest](www.dataquest.io).
 
+Content Authoring Tutorial
+-----------------
+
+There's a tutorial in blog post form [here](http://blog.dataquest.io/blog/make-interactive-lesson/) that explains the steps of making an interactive lesson.
+
+
 How to use
 -----------------
 
